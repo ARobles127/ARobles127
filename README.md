@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Data Analytics
 - 💞️ I’m looking to collaborate on learning/creating data reports 
-- 📫 How to reach me by email analiliarobles@gmail.com 
+- 📫 How to reach me by email analiliarobles1987@gmail.com 
 
 <!---
 ARobles127/ARobles127 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
